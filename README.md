@@ -12,12 +12,13 @@ This folder contains notebooks suggested for students to review and reinforce th
 * [Pandas Tutorial](https://github.com/angievig/Pandas-Tutorial/tree/master)
 
 ## Week 1
-In this week the practical session was delivered by prof. Andres Aristizabal via zoom. The assignement for the practical class is the following notebook: 
+This week, the practical session was delivered by Prof. Andres Aristizabal via Zoom. The assignment for the practical class is the following notebook: 
 * [Regular Expressions Notebook](./Week1/RegExExercises.ipynb) This notebook contains many problems and some solutions
 
 ## Week 2
 
 **Session 1**
-We reviewed the concepts of regular expressions, and its relation to regular languages.  Also, the lecture included the introduction to Automata theory.  The notebook for this lecture are the following:
-* [**Solution** to the Regular Expressions Notebook](./Week2/SolRegExExercises.ipynb). Solution for the previous exercise
-* [PRevious Follow-up](./Week2/CyEDIII_Seguimiento1_25-2_G1.ipynb).  This notebook contains the problems assigned in the previous term.
+
+We reviewed the concepts of regular expressions and their relation to regular languages.  Also, the lecture included an introduction to Automata theory.  The notebooks for this lecture are the following:
+* [**Solution** to the Regular Expressions Notebook](./Week2/SolRegExExercises.ipynb). Solution for the previous exercise.
+* [Previous Follow-up](./Week2/CyEDIII_Seguimiento1_25-2_G1.ipynb).  This notebook contains the problems assigned in the previous term.
