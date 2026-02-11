@@ -17,7 +17,7 @@ In this week the practical session was delivered by prof. Andres Aristizabal via
 
 ## Week 2
 
-###Session 1
+**Session 1**
 We reviewed the concepts of regular expressions, and its relation to regular languages.  Also, the lecture included the introduction to Automata theory.  The notebook for this lecture are the following:
 * [**Solution** to the Regular Expressions Notebook](./Week2/SolRegExExercises.ipynb). Solution for the previous exercise
-*[PRevious Follow-up](./Week2/CyEDIII_Seguimiento1_25-2_G1.ipynb).  This notebook contains the problems assigned in the previous term.
+* [PRevious Follow-up](./Week2/CyEDIII_Seguimiento1_25-2_G1.ipynb).  This notebook contains the problems assigned in the previous term.
