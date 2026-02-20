@@ -22,3 +22,20 @@ This week, the practical session was delivered by Prof. Andres Aristizabal via Z
 We reviewed the concepts of regular expressions and their relation to regular languages.  Also, the lecture included an introduction to Automata theory.  The notebooks for this lecture are the following:
 * [**Solution** to the Regular Expressions Notebook](./Week2/SolRegExExercises.ipynb). Solution for the previous exercise.
 * [Previous Follow-up](./Week2/CyEDIII_Seguimiento1_25-2_G1.ipynb).  This notebook contains the problems assigned in the previous term.
+* [Follow-up 2026-1](./Week2/CyEDIII_Seguimiento1_26_1_G5.ipynb)
+
+## Week 3
+**Session 1**
+
+In this section we studied the concepts, definition and differences between:
+
+* FDA
+* FNA
+* EFNA
+
+
+
+**Session 2**
+* [Automata Implementation in Pyforlang](./Week3/AutomataImplementation.ipynb)
+* [Data for the assignment](./Week3/transacciones.xls)
+* [Problem](./Week3/problem.md)
