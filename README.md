@@ -39,3 +39,19 @@ In this section we studied the concepts, definition and differences between:
 * [Automata Implementation in Pyforlang](./Week3/AutomataImplementation.ipynb)
 * [Data for the assignment](./Week3/transacciones.xls)
 * [Problem](./Week3/problem.md)
+
+## Week 4
+**Session 1**
+
+In this session, we will work on **Transducers**. You will learn the formal definitions, explore some examples, and implement them using `pyformlang`.  Available resources for this class:
+
+- [Board](https://miro.com/app/board/uXjVNqvrmT8=/?share_link_id=168929229680)  
+- [Notebook with implementation examples](./Week4/Transducers.ipynb)
+- [Problem statement](./Week4/Problem.pdf) 
+- [Data for the problem](./Week4/students.csv) 
+
+
+**Session 2**
+
+**Follow-up 2:** Design and implementation of automata using `pyformlang`
+
