@@ -55,3 +55,14 @@ In this session, we will work on **Transducers**. You will learn the formal defi
 
 **Follow-up 2:** Design and implementation of automata using `pyformlang`
 
+## Week 5
+**Session 1**
+
+In this session, we worked with Grammars, we studied the general concept and speciallized in context-free and regular grammars
+
+**Session 2**
+
+This is a more practical session, the plan is to solve the exercises and provide an implementation using `pyformlang`
+
+- [Material](./Week5/CFG.ipynb) 
+
