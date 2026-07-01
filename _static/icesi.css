@@ -1,0 +1,137 @@
+:root {
+  --icesi-blue: #5555ea;
+  --icesi-blue-dark: #3535b8;
+  --icesi-blue-soft: #ededff;
+  --icesi-ink: #1f2433;
+  --icesi-muted: #5f6473;
+  --icesi-border: #d9dced;
+  --icesi-surface: #ffffff;
+  --icesi-surface-alt: #f7f8fc;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--icesi-ink);
+  background: var(--icesi-surface);
+}
+
+a,
+.content a {
+  color: var(--icesi-blue-dark);
+}
+
+a:hover,
+.content a:hover {
+  color: var(--icesi-blue);
+}
+
+.logo__image {
+  max-height: 3.25rem;
+  object-fit: contain;
+}
+
+.logo__title {
+  color: var(--icesi-ink);
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.bd-sidebar-primary,
+.sidebar-primary {
+  border-right: 1px solid var(--icesi-border);
+  background: var(--icesi-surface-alt);
+}
+
+.bd-sidebar-primary .current > a,
+.sidebar-primary .current > a,
+.toc-entry .active,
+.toc-entry a.active {
+  color: var(--icesi-blue-dark);
+  font-weight: 700;
+}
+
+.bd-sidebar-primary a:hover,
+.sidebar-primary a:hover {
+  color: var(--icesi-blue);
+}
+
+.bd-header,
+.navbar {
+  border-bottom: 3px solid var(--icesi-blue);
+}
+
+.bd-content,
+main {
+  line-height: 1.65;
+}
+
+.bd-content h1,
+main h1 {
+  color: var(--icesi-ink);
+  border-bottom: 4px solid var(--icesi-blue);
+  padding-bottom: 0.35rem;
+}
+
+.bd-content h2,
+.bd-content h3,
+main h2,
+main h3 {
+  color: var(--icesi-ink);
+}
+
+.admonition,
+div.admonition {
+  border-color: var(--icesi-blue);
+  border-radius: 6px;
+}
+
+.admonition-title,
+div.admonition > .admonition-title {
+  background-color: var(--icesi-blue-soft);
+  color: var(--icesi-blue-dark);
+}
+
+code,
+pre {
+  border-radius: 6px;
+}
+
+button,
+.btn {
+  border-radius: 6px;
+}
+
+.cell_output,
+.cell_input {
+  border-color: var(--icesi-border);
+}
+
+.prev-next-area a {
+  color: var(--icesi-blue-dark);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --icesi-ink: #f6f7ff;
+    --icesi-muted: #c8cbe0;
+    --icesi-border: #383a52;
+    --icesi-surface: #11131f;
+    --icesi-surface-alt: #171a2a;
+    --icesi-blue-soft: #25265f;
+  }
+
+  body,
+  .bd-sidebar-primary,
+  .sidebar-primary {
+    color: var(--icesi-ink);
+    background: var(--icesi-surface);
+  }
+
+  .bd-sidebar-primary,
+  .sidebar-primary {
+    background: var(--icesi-surface-alt);
+  }
+}

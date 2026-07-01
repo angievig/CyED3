@@ -1,0 +1,9 @@
+ipykernel
+jupyter-server
+matplotlib
+networkx
+numpy
+pandas
+pyformlang
+pydot
+xlrd
