@@ -15,7 +15,10 @@ project:
     - name: Angela Villota
       affiliation: Universidad Icesi
   github: https://github.com/angievig/CyED3
-  jupyter: true
+  jupyter:
+    binder:
+      repo: angievig/CyED3
+      ref: main
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
